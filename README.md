@@ -8,7 +8,7 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
-# EGEL_Informatica
+# EGEL_Informática
 ## Repositorio para Prueba EGEL - Licenciatura en Informática
 
 Este repositorio contiene recursos, resúmenes y materiales de apoyo para la preparación de la prueba EGEL de la Licenciatura en Informática, enfocados en las áreas temáticas principales. Incluye síntesis de conocimientos clave, ejercicios, ejemplos y enlaces bibliográficos para facilitar el estudio autónomo y colaborativo.
