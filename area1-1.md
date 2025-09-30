@@ -1,6 +1,6 @@
 # Planeación de Negocio
 
-La **planeación de negocio** es el proceso estructurado por el cual se definen, organizan y proyectan las acciones necesarias para transformar una idea en una empresa exitosa. Su objetivo principal es que se adquieran todas las competencias prácticas y teóricas para integrar adecuadamente conceptos, herramientas y técnicas que faciliten el diseño, implementación y gestión de un negocio sustentable y competitivo.[
+La **planeación de negocio** es el proceso estructurado por el cual se definen, organizan y proyectan las acciones necesarias para transformar una idea en una empresa exitosa. Su objetivo principal es que se adquieran todas las competencias prácticas y teóricas para integrar adecuadamente conceptos, herramientas y técnicas que faciliten el diseño, implementación y gestión de un negocio sustentable y competitivo.
 
 ***
 
