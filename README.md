@@ -1,5 +1,15 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
 # EGEL_Informatica
-# Repositorio para Prueba EGEL - Licenciatura en Informática
+## Repositorio para Prueba EGEL - Licenciatura en Informática
 
 Este repositorio contiene recursos, resúmenes y materiales de apoyo para la preparación de la prueba EGEL de la Licenciatura en Informática, enfocados en las áreas temáticas principales. Incluye síntesis de conocimientos clave, ejercicios, ejemplos y enlaces bibliográficos para facilitar el estudio autónomo y colaborativo.
 
