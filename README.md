@@ -15,7 +15,7 @@ Este repositorio contiene recursos, resúmenes y materiales de apoyo para la pre
 
 ## Índice de Áreas y Subáreas
 
-1. **Necesidades Informáticas de una Organización**
+[1. **Necesidades Informáticas de una Organización**](1intro.md)
    - [1.1 Planeación de negocios](area1-1.md)
    - [1.2 Necesidades de información e infraestructura](area1-2.md)
    - [1.3 Propuestas de solución](area1-3.md)
