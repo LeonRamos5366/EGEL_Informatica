@@ -15,26 +15,27 @@ Este repositorio contiene recursos, resúmenes y materiales de apoyo para la pre
 
 ## Índice de Áreas y Subáreas
 
-1. **Área 1: Informática Administrativa**
-   - [1.1 Sistemas de información para la gestión organizacional](area1-1.md)
-   - [1.2 Procesos administrativos y TIC](area1-2.md)
-   - [1.3 Modelos de toma de decisiones en las organizaciones](area1-3.md)
+1. **Necesidades Informáticas de una Organización**
+   - [1.1 Planeación de negocios](area1-1.md)
+   - [1.2 Necesidades de información e infraestructura](area1-2.md)
+   - [1.3 Propuestas de solución](area1-3.md)
 
-2. **Área 2: Desarrollo de Software**
-   - [2.1 Programación orientada a objetos](area2-1.md)
-   - [2.2 Ingeniería de software: análisis y diseño](area2-2.md)
-   - [2.3 Pruebas y aseguramiento de la calidad](area2-3.md)
-   - [2.4 Gestión de proyectos de software](area2-4.md)
+2. **Gestión de Proyectos Informáticos**
+   - [2.1 Planeación y viabilidad del proyecto informático](area2-1.md)
+   - [2.2 Ejecución del proyecto informático](area2-2.md)
+   - [2.3 Control y cierre del proyecto informático](area2-3.md)
 
-3. **Área 3: Bases de Datos y Gestión de Información**
-   - [3.1 Modelado de datos y diseño de bases](area3-1.md)
-   - [3.2 Administración de bases de datos](area3-2.md)
-   - [3.3 Sistemas de información y minería de datos](area3-3.md)
+3. **Implementación de Sistemas de Información**
+   - [3.1 Características de sistemas de información](area3-1.md)
+   - [3.2 Conceptos de programación](area3-2.md)
+   - [3.3 Bases de datos](area3-3.md)
+   - [3.4 Implementación de aplicaciones informáticas](area3-4.md)
 
-4. **Área 4: Infraestructura Tecnológica**
-   - [4.1 Arquitectura de computadoras y redes](area4-1.md)
-   - [4.2 Seguridad informática](area4-2.md)
-   - [4.3 Tecnologías emergentes y servicios en la nube](area4-3.md)
+4. **Función Informática**
+   - [4.1 Gestión de la función informática](area4-1.md)
+   - [4.2 Auditoría informática](area4-2.md)
+   - [4.3 Seguridad informática](area4-3.md)
+   - [4.4 Evaluación informática](area4-4.md)
 
 ## Bibliografía Básica
 
