@@ -1,4 +1,4 @@
-
+# Introducción
 ***
 
 La transformación digital y la acelerada evolución tecnológica han convertido a la función informática en un pilar estratégico dentro de las organizaciones modernas. Para responder a un entorno de negocios cada vez más cambiante, es fundamental reconocer que la estructura informática tradicional ya no basta; se requiere un análisis profundo de las necesidades informáticas específicas de cada organización, que incluya desde la planeación inicial del negocio, pasando por la identificación de las necesidades de información, hasta el diseño de una infraestructura tecnológica adecuada y la elaboración de propuestas de solución innovadoras.[1][2][3]
