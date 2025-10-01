@@ -1,4 +1,4 @@
-# El tema “propuesta de solución” representa la fase en la que, tras identificar y analizar las necesidades del negocio, la información y la infraestructura, se diseña, evalúa y selecciona la alternativa tecnológica que mejor responde a los desafíos organizacionales.[1][2]
+# El tema “propuesta de solución” representa la fase en la que, tras identificar y analizar las necesidades del negocio, la información y la infraestructura, se diseña, evalúa y selecciona la alternativa tecnológica que mejor responde a los desafíos organizacionales.
 
 ***
 
