@@ -20,18 +20,18 @@ Este repositorio contiene recursos, resúmenes y materiales de apoyo para la pre
    - [1.2 Necesidades de información e infraestructura](area1-2.md)
    - [1.3 Propuestas de solución](area1-3.md)
 
-2. **Gestión de Proyectos Informáticos**
+[2. **Gestión de Proyectos Informáticos**](2intro.md)
    - [2.1 Planeación y viabilidad del proyecto informático](area2-1.md)
    - [2.2 Ejecución del proyecto informático](area2-2.md)
    - [2.3 Control y cierre del proyecto informático](area2-3.md)
 
-3. **Implementación de Sistemas de Información**
+[3. **Implementación de Sistemas de Información**](3intro.md)
    - [3.1 Características de sistemas de información](area3-1.md)
    - [3.2 Conceptos de programación](area3-2.md)
    - [3.3 Bases de datos](area3-3.md)
    - [3.4 Implementación de aplicaciones informáticas](area3-4.md)
 
-4. **Función Informática**
+[4. El **Función Informática**](4intro.md)
    - [4.1 Gestión de la función informática](area4-1.md)
    - [4.2 Auditoría informática](area4-2.md)
    - [4.3 Seguridad informática](area4-3.md)
