@@ -39,17 +39,17 @@ Este repositorio contiene recursos, resúmenes y materiales de apoyo para la pre
 
 ## Bibliografía Básica
 
-- Laudon, K. C., & Laudon, J. P. (2020). *Sistemas de información gerencial* [web:1].
-- Sommerville, I. (2020). *Ingeniería de software* [web:1].
-- Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Fundamentos de bases de datos* [web:1].
-- Tanenbaum, A. S., & Wetherall, D. (2018). *Redes de computadoras* [web:1].
+- Laudon, K. C., & Laudon, J. P. (2020). *Sistemas de información gerencial* .
+- Sommerville, I. (2020). *Ingeniería de software* .
+- Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Fundamentos de bases de datos* .
+- Tanenbaum, A. S., & Wetherall, D. (2018). *Redes de computadoras* .
 
 ## Bibliografía Complementaria
 
-- O'Brien, J. A., & Marakas, G. M. (2017). *Administración de sistemas de información* [web:1].
-- Pressman, R. S. (2019). *Software Engineering: A Practitioner's Approach* [web:1].
-- Stallings, W. (2017). *Seguridad en redes* [web:1].
-- Patterson, D. A., & Hennessy, J. L. (2017). *Computer Organization and Design* [web:1].
+- O'Brien, J. A., & Marakas, G. M. (2017). *Administración de sistemas de información* .
+- Pressman, R. S. (2019). *Software Engineering: A Practitioner's Approach* .
+- Stallings, W. (2017). *Seguridad en redes* .
+- Patterson, D. A., & Hennessy, J. L. (2017). *Computer Organization and Design* .
 ---
 
 ## Contacto y apoyo:
