@@ -1,63 +1,81 @@
-2.1 Planeación y viabilidad del proyecto informático
-La planeación y viabilidad de un proyecto informático es la etapa en la que se establecen las bases para el éxito futuro del proyecto, determinando si es posible y conveniente para una organización llevar a cabo una iniciativa tecnológica específica.
+***
 
-Definición y alcance
-La planeación implica definir objetivos, delimitar el alcance, identificar requerimientos, estimar tiempos y costos, y prever recursos necesarios. Aquí es fundamental analizar la viabilidad a través de estudios técnicos, económicos, operativos y de recursos humanos. Este proceso responde a preguntas como: ¿Es posible realizar este proyecto? ¿Con los recursos y capacidades existentes lograremos los objetivos?
+### 2.1 Planeación y Viabilidad del Proyecto Informático
 
-Utilidad y aplicación
-Esta fase evita derroches de recursos y asegura proyectos alineados con la estrategia organizacional. Aplicar estudios de factibilidad y viabilidad puede significar la diferencia entre el éxito y el fracaso, permitiendo decidir si el proyecto debe madurar, ajustarse o cancelarse antes de consumir recursos significativos.
+La planeación y viabilidad de un proyecto informático representa la piedra angular de una gestión profesional y exitosa. Consiste en definir, documentar y evaluar los objetivos, alcance y requerimientos mediante la colaboración entre todos los stakeholders, estableciendo las bases para el desarrollo, ejecución y mantenimiento de la solución tecnológica dentro de los límites de tiempo, costo y calidad establecidos. Un análisis riguroso de viabilidad técnica, económica y operativa permite priorizar esfuerzos, anticipar riesgos y garantizar que los recursos sean invertidos donde realmente ofrecen valor a la organización.[^1][^2]
 
-Competencias a desarrollar
-Capacidad para analizar requerimientos y especificaciones funcionales.
+#### Proceso estructurado
 
-Evaluar riesgos técnicos y económicos.
+1. **Definición de objetivos y alcance.** Precisa con detalle los resultados esperados y el alcance del sistema, involucrando tanto a usuarios finales como a responsables clave desde las primeras etapas.[^2]
+2. **Estudio de oportunidad y justificación.** Evalúa la razón de ser del proyecto y sus beneficios organizacionales futuros.
+3. **Análisis de viabilidad.** Se revisan restricciones técnicas (infraestructura, conocimientos), económicas (costos versus retorno), operativas (adaptabilidad a procesos existentes), legales y ambientales.
+4. **Estimación y calendarización.** Desglosa tareas y calcula costos, asigna recursos humanos, materiales y tecnológicos, apoyándose en metodologías ágiles, tradicionales o híbridas.
+5. **Formación del equipo.** Selecciona perfiles y distribuye responsabilidades según experiencia, promoviendo la interdisciplinariedad y la colaboración.
 
-Generar documentación clara (pliegos de condiciones, caso de negocio, cronogramas).
+#### Competencias desarrolladas
 
-Trabajo colaborativo y comunicación asertiva con stakeholders y equipo técnico.
+- Capacidad de análisis de requerimientos y especificaciones funcionales.[^1]
+- Evaluación y mitigación de riesgos económicos, técnicos y operativos.
+- Elaboración de documentación precisa y completa (pliegos, cronogramas).
+- Habilidades de comunicación y negociación frente a retos y cambios.
+- Adaptabilidad y flexibilidad ante imprevistos.[^2]
 
-Roles involucrados
-Jefe de proyecto: liderazgo técnico y organizacional.
 
-Analista de sistemas: especificaciones y estudios de viabilidad.
+#### Roles clave
 
-Stakeholders (clientes, usuarios clave): definición de necesidades y objetivos.
+- Jefe de proyecto: Lidera la coordinación, toma de decisiones y promueve la visión global.
+- Analista de sistemas: Define requerimientos y estudia la viabilidad.
+- Stakeholders: Validan objetivos y aseguran alineación estratégica.
 
-Metodologías y ciclo de vida
-Estudio de factibilidad (tecnológica, económica, operativa).
 
-Metodologías tradicionales (Waterfall) y ágiles (Agile, Scrum) para la planificación técnica y estratégica.
+#### Metodologías aplicables
 
-Ciclo de vida: inicio, planificación, evaluación del entorno y viabilidad.
+- Waterfall: secuencial, adecuada para proyectos de requisitos bien definidos.
+- Ágil (Scrum, Kanban): permite flexibilidad y respuesta a cambios constantes.
+- Híbrida: combina lo mejor de ambas, adaptándose a requisitos y recursos disponibles.[^1][^2]
 
-Factibilidad y viabilidad
-Factibilidad técnica: ¿Contamos con el conocimiento y tecnología requeridos?
 
-Factibilidad económica: ¿El costo está dentro del presupuesto y se justifica el retorno de inversión?
+#### Ciclo de vida
 
-Factibilidad operativa: ¿Se adapta a los procesos y cultura de la organización?
+1. Lanzamiento: análisis funcional y definición de objetivos.
+2. Planificación: desarrollo detallado, asignación de recursos, organización del equipo.
+3. Ejecución: implementación y desarrollo del producto.
+4. Seguimiento y control: integración, pruebas y validación.
+5. Cierre y mantenimiento: puesta en producción y mejoras continuas.
 
-Viabilidad legal y ambiental: ¿Cumple con normativas y sostenibilidad?
+#### Factibilidad y viabilidad
 
-Preguntas de aplicación posibles (ejemplos para 11 reactivos)
-Explica la diferencia entre factibilidad técnica y factibilidad económica, y ofrece ejemplos prácticos en el contexto de un desarrollo web.
+- Técnica: disponibilidad de infraestructura y conocimientos técnicos requeridos.
+- Económica: análisis de costo-beneficio y retorno esperado.
+- Operativa: compatibilidad con procesos y la cultura interna.
+- Legal y ambiental: cumplimiento normativo y criterios de sostenibilidad.
 
-¿Cuáles son los pasos esenciales para analizar la viabilidad de un ERP en una empresa?
 
-¿Por qué es importante involucrar stakeholders desde la fase de planeación?
+#### Buenas prácticas
 
-Menciona tres riesgos que se pueden identificar durante la planificación de un sistema de inventarios y cómo mitigarlos.
+- Documentar exhaustivamente cada etapa y decisión.
+- Mantener comunicación fluida y participativa entre todos los equipos.[^2]
+- Definir KPIs desde el inicio y aplicar métricas para seguimiento.
+- Promover la actualización profesional del equipo.
+- Seleccionar la metodología que mejor responda al contexto y necesidades.[^1]
 
-¿Qué documentación se debe generar y cuál es su utilidad en la planeación?
 
-Describe cómo se estiman recursos humanos y materiales en un proyecto informático.
+#### Ejemplo práctico
 
-Explica el impacto de la cultura organizacional en la viabilidad de un sistema nuevo.
+Una empresa decide modernizar su sistema de gestión de inventarios. Se identifican requerimientos con usuarios, se analiza la viabilidad técnica (integración con otros sistemas), económica (presupuesto y retorno), operativa (adaptación a procesos) y se calendarizan actividades, asignando roles a desarrolladores, analistas y responsables. Se documentan riesgos, elabora el cronograma y se define control con KPIs claros.
 
-¿Cómo se relaciona la planeación con el ciclo de vida del software?
+#### Preguntas de aplicación (11 reactivos):
 
-Ejercicios de análisis de casos reales: evaluar la viabilidad técnica de un sistema de pagos en línea.
+1. Explica la diferencia entre factibilidad técnica y económica con ejemplos.
+2. ¿Qué papel tiene la documentación en la fase de planeación?
+3. ¿Por qué conviene involucrar a los usuarios finales desde el principio?
+4. Plantea un análisis básico de viabilidad para un sistema de ventas en línea.
+5. ¿Qué métodos pueden utilizarse para estimar recursos humanos y costos?
+6. Menciona tres riesgos habituales y plantea formas de mitigarlos.
+7. ¿Cómo impacta la cultura organizacional en la viabilidad de un nuevo sistema?
+8. Elabora un cronograma tentativo para un desarrollo de app móvil.
+9. Reflexiona sobre la importancia de definir KPIs antes de iniciar ejecución.
+10. Analiza las ventajas y desventajas de los métodos ágiles y tradicionales para la planeación.
+11. Propón estrategias para adaptar la planeación cuando surgen imprevistos.
 
-Plantea un ejemplo de cómo se priorizan requerimientos usando metodologías ágiles.
-
-Reflexiona sobre la importancia de los estudios de factibilidad para el éxito organizacional.
+***
