@@ -2,11 +2,11 @@
 
 ### 2.1 Planeación y Viabilidad del Proyecto Informático
 
-La planeación y viabilidad de un proyecto informático representa la piedra angular de una gestión profesional y exitosa. Consiste en definir, documentar y evaluar los objetivos, alcance y requerimientos mediante la colaboración entre todos los stakeholders, estableciendo las bases para el desarrollo, ejecución y mantenimiento de la solución tecnológica dentro de los límites de tiempo, costo y calidad establecidos. Un análisis riguroso de viabilidad técnica, económica y operativa permite priorizar esfuerzos, anticipar riesgos y garantizar que los recursos sean invertidos donde realmente ofrecen valor a la organización.[^1][^2]
+La planeación y viabilidad de un proyecto informático representa la piedra angular de una gestión profesional y exitosa. Consiste en definir, documentar y evaluar los objetivos, alcance y requerimientos mediante la colaboración entre todos los stakeholders, estableciendo las bases para el desarrollo, ejecución y mantenimiento de la solución tecnológica dentro de los límites de tiempo, costo y calidad establecidos. Un análisis riguroso de viabilidad técnica, económica y operativa permite priorizar esfuerzos, anticipar riesgos y garantizar que los recursos sean invertidos donde realmente ofrecen valor a la organización.
 
 #### Proceso estructurado
 
-1. **Definición de objetivos y alcance.** Precisa con detalle los resultados esperados y el alcance del sistema, involucrando tanto a usuarios finales como a responsables clave desde las primeras etapas.[^2]
+1. **Definición de objetivos y alcance.** Precisa con detalle los resultados esperados y el alcance del sistema, involucrando tanto a usuarios finales como a responsables clave desde las primeras etapas.
 2. **Estudio de oportunidad y justificación.** Evalúa la razón de ser del proyecto y sus beneficios organizacionales futuros.
 3. **Análisis de viabilidad.** Se revisan restricciones técnicas (infraestructura, conocimientos), económicas (costos versus retorno), operativas (adaptabilidad a procesos existentes), legales y ambientales.
 4. **Estimación y calendarización.** Desglosa tareas y calcula costos, asigna recursos humanos, materiales y tecnológicos, apoyándose en metodologías ágiles, tradicionales o híbridas.
@@ -14,11 +14,11 @@ La planeación y viabilidad de un proyecto informático representa la piedra ang
 
 #### Competencias desarrolladas
 
-- Capacidad de análisis de requerimientos y especificaciones funcionales.[^1]
+- Capacidad de análisis de requerimientos y especificaciones funcionales.
 - Evaluación y mitigación de riesgos económicos, técnicos y operativos.
 - Elaboración de documentación precisa y completa (pliegos, cronogramas).
 - Habilidades de comunicación y negociación frente a retos y cambios.
-- Adaptabilidad y flexibilidad ante imprevistos.[^2]
+- Adaptabilidad y flexibilidad ante imprevistos.
 
 
 #### Roles clave
@@ -32,7 +32,7 @@ La planeación y viabilidad de un proyecto informático representa la piedra ang
 
 - Waterfall: secuencial, adecuada para proyectos de requisitos bien definidos.
 - Ágil (Scrum, Kanban): permite flexibilidad y respuesta a cambios constantes.
-- Híbrida: combina lo mejor de ambas, adaptándose a requisitos y recursos disponibles.[^1][^2]
+- Híbrida: combina lo mejor de ambas, adaptándose a requisitos y recursos disponibles.
 
 
 #### Ciclo de vida
@@ -54,10 +54,10 @@ La planeación y viabilidad de un proyecto informático representa la piedra ang
 #### Buenas prácticas
 
 - Documentar exhaustivamente cada etapa y decisión.
-- Mantener comunicación fluida y participativa entre todos los equipos.[^2]
+- Mantener comunicación fluida y participativa entre todos los equipos.
 - Definir KPIs desde el inicio y aplicar métricas para seguimiento.
 - Promover la actualización profesional del equipo.
-- Seleccionar la metodología que mejor responda al contexto y necesidades.[^1]
+- Seleccionar la metodología que mejor responda al contexto y necesidades.
 
 
 #### Ejemplo práctico
