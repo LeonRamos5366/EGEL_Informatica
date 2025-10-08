@@ -40,4 +40,5 @@ Es la fase donde se formaliza la entrega y aceptación de resultados: se transfi
 
 Continuando el ejemplo del sistema de inventarios, se verifica que todas las funciones cumplen los requerimientos, se documentan los procedimientos y manuales, el cliente prueba y valida el sistema, se entrena al personal de soporte, se firma el cierre y se archivan los aprendizajes (cómo se resolvieron problemas, qué mejorar en próximas ocasiones).
 
+[Guía](./guia.md)
 ***
